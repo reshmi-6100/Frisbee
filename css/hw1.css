@@ -37,14 +37,14 @@
   }
 
   h2 {
-    color: #b3b3b3; 
+    color: #ffcccb; 
     text-transform: uppercase; 
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
     font-size: 25px;
   }
 
   .left {
-    background: #b3b3b3; 
+    background: #ffcccb; 
     width: 30%;
     float: left;
     padding: 1% 0%; 
